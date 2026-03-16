@@ -382,10 +382,7 @@ st.markdown(
 )
 
 st.markdown('<div class="title-main">Condensate State Classification</div>', unsafe_allow_html=True)
-st.markdown(
-    '<div class="subtitle">Upload image(s), then click Submit to view prediction results.</div>',
-    unsafe_allow_html=True
-)
+
 
 uploaded_files = st.file_uploader(
     "Upload images",
