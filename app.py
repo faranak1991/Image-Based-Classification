@@ -385,6 +385,7 @@ st.markdown('<div class="title-main">Condensate State Classification</div>', uns
 
 
 uploaded_files = st.file_uploader(
+    "Upload images",
     type=["png", "jpg", "jpeg", "tif", "tiff"],
     accept_multiple_files=True
 )
