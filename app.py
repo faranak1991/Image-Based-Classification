@@ -381,9 +381,9 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown('<div class="title-main">Protein State Classification</div>', unsafe_allow_html=True)
+st.markdown('<div class="title-main">Condensate State Classification</div>', unsafe_allow_html=True)
 st.markdown(
-    '<div class="subtitle">Upload one or more images to classify protein states using ensemble deep learning models.</div>',
+    '<div class="subtitle">Upload image(s), then click Submit to view prediction results.</div>',
     unsafe_allow_html=True
 )
 
