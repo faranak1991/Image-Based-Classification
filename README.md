@@ -82,7 +82,7 @@ This work provides a scalable and objective approach for studying condensate beh
 
 ## Citation
 
-If you use this framework, please cite the associated study/manuscript once available.
+If you use this framework, please cite the associated study once available.
 
 ## Contact
 
