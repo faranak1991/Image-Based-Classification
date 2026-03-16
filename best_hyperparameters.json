@@ -1,0 +1,38 @@
+{
+  "RandomForest": {
+    "n_estimators": 440,
+    "max_depth": 32,
+    "min_samples_split": 15,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "SimpleCNN": {
+    "n_conv_layers": 4,
+    "conv_channels_0": 64,
+    "conv_channels_1": 64,
+    "conv_channels_2": 256,
+    "conv_channels_3": 32,
+    "fc_hidden": 128,
+    "dropout": 0.4024393094089724,
+    "lr": 6.964125334757764e-05,
+    "batch_size": 16
+  },
+  "DenseNet": {
+    "fc_hidden": 256,
+    "dropout": 0.2624074561769746,
+    "lr": 2.9375384576328295e-05,
+    "batch_size": 16
+  },
+  "ResNet": {
+    "fc_hidden": 256,
+    "dropout": 0.5973906274063451,
+    "lr": 3.24596989797028e-05,
+    "batch_size": 32
+  },
+  "EfficientNet": {
+    "fc_hidden": 256,
+    "dropout": 0.2624074561769746,
+    "lr": 2.9375384576328295e-05,
+    "batch_size": 16
+  }
+}
