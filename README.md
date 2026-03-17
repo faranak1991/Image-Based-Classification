@@ -42,7 +42,7 @@ The best-performing approach is a **weighted ensemble** of three fine-tuned conv
 - **EfficientNet-B0**
 
 
-<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/06f45f45-42d6-468f-8e47-ecf7d13c2648" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/06f45f45-42d6-468f-8e47-ecf7d13c2648" />
 
 
 
