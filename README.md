@@ -41,9 +41,7 @@ The best-performing approach is a **weighted ensemble** of three fine-tuned conv
 - **ResNet18**
 - **EfficientNet-B0**
 
-
-![image](https://github.com/user-attachments/assets/06f45f45-42d6-468f-8e47-ecf7d13c2648)
-
+<img src="https://github.com/user-attachments/assets/06f45f45-42d6-468f-8e47-ecf7d13c2648" width="600" alt="image" />
 
 
 ## Main findings
