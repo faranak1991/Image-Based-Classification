@@ -59,7 +59,7 @@ The best-performing approach is a **weighted ensemble** of three fine-tuned conv
 
 A public web app is available for predicting condensate state from microscopy images:
 
-**Streamlit app:**  
+** App:**  
 https://image-based-classification-faranak-hatami.streamlit.app/
 
 Users can upload microscopy images and obtain automated predictions for condensate material state.
