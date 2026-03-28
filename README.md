@@ -55,6 +55,11 @@ The best-performing approach is a **weighted ensemble** of three fine-tuned conv
   - inter-observer disagreement
   - manual labeling burden
 
+
+<img width="779" height="531" alt="image" src="https://github.com/user-attachments/assets/3b4b4889-b49b-4319-812b-aeb555ec0f43" />
+
+
+
 ## Application
 
 A public web app is available for predicting condensate state from microscopy images:
